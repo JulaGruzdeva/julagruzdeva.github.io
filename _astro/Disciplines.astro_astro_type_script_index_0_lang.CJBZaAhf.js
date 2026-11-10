@@ -1,0 +1,1 @@
+import{a as e,o as t,t as n}from"./smooth.DksOK1Mj.js";var r=document.querySelector(`[data-words-stage]`);r&&!e()&&t(()=>{let e=r.getBoundingClientRect(),t=window.innerHeight;return n((t-e.top)/(t+e.height))},e=>r.style.setProperty(`--p`,e.toFixed(5)),.12);
